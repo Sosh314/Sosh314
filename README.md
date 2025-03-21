@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=af2cc9&height=120&text=hello&animation=&fontColor=000000&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 자기소개 </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About Me </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요! 개발을 배우기 시작한 지 얼마 되지 않았지만, 꾸준히 성장하고 있는 소성현입니다.<br>
 아직 초보 개발자이지만, 배우는 것을 두려워하지 않고 적극적으로 배우겠습니다.<br>
 앞으로도 학습과 실습을 통해 개발 기술을 쌓아가겠습니다. </div> 
